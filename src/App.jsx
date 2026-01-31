@@ -210,10 +210,10 @@ export default function App() {
         <div className="flex justify-between items-center px-4">
           <div className="flex items-center gap-3">
              <div className="w-11 h-11 bg-white rounded-full flex items-center justify-center shadow-[0_0_20px_rgba(255,255,255,0.1)]">
-                <span className="text-black font-black text-2xl tracking-tighter">P</span>
+                <span className="text-black font-black text-2xl tracking-tighter">L</span>
              </div>
              <div className="flex flex-col">
-               <h1 className="font-black uppercase tracking-[0.2em] text-xl text-white leading-none">Pharos <span className="text-emerald-500">Finance</span></h1>
+               <h1 className="font-black uppercase tracking-[0.2em] text-xl text-white leading-none">liquid <span className="text-emerald-500">Fi</span></h1>
                <span className="text-[8px] text-emerald-900 font-bold uppercase tracking-[0.3em] mt-1">Deep-Parallel L1 Network</span>
              </div>
           </div>
